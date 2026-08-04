@@ -1,0 +1,29 @@
+:root {
+  --md-primary-fg-color: #ee0000;
+  --md-primary-fg-color--light: #f56e6e;
+  --md-primary-fg-color--dark: #a30000;
+  --md-accent-fg-color: #ee0000;
+  --md-accent-fg-color--transparent: rgba(238, 0, 0, 0.1);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #ee0000;
+  --md-primary-fg-color--light: #f56e6e;
+  --md-primary-fg-color--dark: #a30000;
+  --md-accent-fg-color: #ee0000;
+  --md-accent-fg-color--transparent: rgba(238, 0, 0, 0.1);
+  --md-default-bg-color: #151515;
+  --md-default-bg-color--light: #1a1a1a;
+}
+
+.md-header {
+  background-color: #151515;
+}
+
+.md-tabs {
+  background-color: #1a1a1a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Red Hat Display", sans-serif;
+}
