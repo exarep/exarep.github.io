@@ -1,0 +1,18 @@
+:root {
+  /* Red Hat brand colors */
+  --md-primary-fg-color: #ee0000;
+  --md-primary-fg-color--light: #f56e6e;
+  --md-primary-fg-color--dark: #a30000;
+  --md-accent-fg-color: #ee0000;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #ee0000;
+  --md-primary-fg-color--light: #f56e6e;
+  --md-primary-fg-color--dark: #a30000;
+  --md-accent-fg-color: #ee0000;
+}
+
+.md-header .md-header__button.md-logo img {
+  filter: brightness(0) invert(1);
+}
