@@ -33,7 +33,8 @@ Exarep uses this domain to provide a complete, working example of:
 | [portal-internal](https://github.com/exarep/portal-internal)               | Internal operations portal                         |
 | [gitops-platform](https://github.com/exarep/gitops-platform)               | OpenShift platform GitOps (cluster configuration)  |
 | [gitops-apps](https://github.com/exarep/gitops-apps)                       | Application deployment GitOps                      |
-| [iac-aws](https://github.com/exarep/iac-aws)                               | AWS infrastructure automation (Terraform, Ansible) |
+| [iac-ansible](https://github.com/exarep/iac-ansible)                       | Ansible automation for services environment        |
+| [iac-aws](https://github.com/exarep/iac-aws)                               | AWS infrastructure automation (Terraform)          |
 | [library-common](https://github.com/exarep/library-common)                 | Shared Java libraries                              |
 | [integration-ercot](https://github.com/exarep/integration-ercot)           | ERCOT market file integration jobs                 |
 

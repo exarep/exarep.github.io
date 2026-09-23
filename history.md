@@ -1,3 +1,6 @@
 - This is the root folder of an organization called Exarep. This designed as a fake retail electricity provider operating in ERCOT in Texas. I want to build this out as a reference architecture for running microservices on OpenShift. Let's use https://raw.githubusercontent.com/stephennimmo/dev/refs/heads/main/AGENTS.md as a guide. I have created the documentation site folder. Go ahead and finish creating the documentation site.
 - I added the exarep logo. Use it.
+- the red background of the header drowns out the logo. Can we make the logo white? 
+- I created a git remote at git@github.com:exarep/exarep.github.io.git. Push it
+- I need to create a server to host a bunch of different services. in AWS. Let's create a new iac project which is going to house all of our ansible for creating the environment. This server is going to start off by hosting Exarep's artifact repository, which will be located at `https://artifacts.exarep.com`. We are going to use Sonatype Nexus Repository OSS for that. But this server is going to host other things as well so make sure to put a proxy in front that allows for multiple urls coming in on port 443. 
 - 
