@@ -1,4 +1,4 @@
-# Exarep
+# ![Exarep](assets/images/exarep-logo.png){ width="60" } Exarep
 
 Exarep is a **reference architecture** for building and operating microservices on **Red Hat OpenShift**, modeled as a retail electricity provider (REP) operating in the **ERCOT** market in Texas.
 
