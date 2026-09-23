@@ -1,0 +1,3 @@
+- This is the root folder of an organization called Exarep. This designed as a fake retail electricity provider operating in ERCOT in Texas. I want to build this out as a reference architecture for running microservices on OpenShift. Let's use https://raw.githubusercontent.com/stephennimmo/dev/refs/heads/main/AGENTS.md as a guide. I have created the documentation site folder. Go ahead and finish creating the documentation site.
+- I added the exarep logo. Use it.
+- 
